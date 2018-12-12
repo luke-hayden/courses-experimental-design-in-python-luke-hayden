@@ -43,7 +43,7 @@ This is an example exercise.
 
 ---
 
-## Insert exercise title here
+## Our first hypothesis test: Student's t-test
 
 ```yaml
 type: VideoExercise
